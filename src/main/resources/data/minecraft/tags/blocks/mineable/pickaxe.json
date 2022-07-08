@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"novablocks:example_block",
+		"novablocks:hazard_block"
+	]
+}
