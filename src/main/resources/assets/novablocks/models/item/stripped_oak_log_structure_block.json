@@ -1,0 +1,11 @@
+{
+	"parent": "novablocks:item/structure_block",
+	"textures": {
+		"north": "minecraft:block/stripped_oak_log",
+		"south": "minecraft:block/stripped_oak_log",
+		"east": "minecraft:block/stripped_oak_log",
+		"west": "minecraft:block/stripped_oak_log",
+		"up": "minecraft:block/stripped_oak_log_top",
+		"down": "minecraft:block/stripped_oak_log_top"
+	}
+}

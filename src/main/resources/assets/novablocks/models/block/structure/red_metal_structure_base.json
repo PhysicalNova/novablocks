@@ -1,0 +1,12 @@
+{
+	"parent": "novablocks:block/structure/structure_base",
+	"textures": {
+		"north": "novablocks:blocks/red_metal_block",
+		"south": "novablocks:blocks/red_metal_block",
+		"east": "novablocks:blocks/red_metal_block",
+		"west": "novablocks:blocks/red_metal_block",
+		"up": "novablocks:blocks/red_metal_block",
+		"down": "novablocks:blocks/red_metal_block",
+		"particle": "novablocks:blocks/red_metal_block"
+	}
+}

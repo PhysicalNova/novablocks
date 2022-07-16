@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "novablocks:blocks/red_metal_block"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "novablocks:item/structure_block",
+	"textures": {
+		"north": "novablocks:blocks/hazard_block",
+		"south": "novablocks:blocks/hazard_block",
+		"east": "novablocks:blocks/hazard_block",
+		"west": "novablocks:blocks/hazard_block",
+		"up": "novablocks:blocks/hazard_block",
+		"down": "novablocks:blocks/hazard_block"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "novablocks:block/structure/structure_end",
+	"textures": {
+		"north": "minecraft:block/birch_log",
+		"south": "minecraft:block/birch_log",
+		"east": "minecraft:block/birch_log",
+		"west": "minecraft:block/birch_log",
+		"up": "minecraft:block/birch_log_top",
+		"down": "minecraft:block/birch_log_top",
+		"particle": "minecraft:block/birch_log"
+	}
+}

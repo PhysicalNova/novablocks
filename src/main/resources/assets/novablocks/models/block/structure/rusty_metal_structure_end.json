@@ -1,0 +1,12 @@
+{
+	"parent": "novablocks:block/structure/structure_end",
+	"textures": {
+		"north": "novablocks:blocks/rusty_metal_block",
+		"south": "novablocks:blocks/rusty_metal_block",
+		"east": "novablocks:blocks/rusty_metal_block",
+		"west": "novablocks:blocks/rusty_metal_block",
+		"up": "novablocks:blocks/rusty_metal_block",
+		"down": "novablocks:blocks/rusty_metal_block",
+		"particle": "novablocks:blocks/rusty_metal_block"
+	}
+}

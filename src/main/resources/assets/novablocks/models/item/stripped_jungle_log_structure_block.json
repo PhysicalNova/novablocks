@@ -1,0 +1,11 @@
+{
+	"parent": "novablocks:item/structure_block",
+	"textures": {
+		"north": "minecraft:block/stripped_jungle_log",
+		"south": "minecraft:block/stripped_jungle_log",
+		"east": "minecraft:block/stripped_jungle_log",
+		"west": "minecraft:block/stripped_jungle_log",
+		"up": "minecraft:block/stripped_jungle_log_top",
+		"down": "minecraft:block/stripped_jungle_log_top"
+	}
+}

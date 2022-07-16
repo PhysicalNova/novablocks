@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "novablocks:blocks/rusty_metal_block"
+	}
+}

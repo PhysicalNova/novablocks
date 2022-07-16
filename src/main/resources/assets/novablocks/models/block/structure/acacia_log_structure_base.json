@@ -1,0 +1,12 @@
+{
+	"parent": "novablocks:block/structure/structure_base",
+	"textures": {
+		"north": "minecraft:block/acacia_log",
+		"south": "minecraft:block/acacia_log",
+		"east": "minecraft:block/acacia_log",
+		"west": "minecraft:block/acacia_log",
+		"up": "minecraft:block/acacia_log_top",
+		"down": "minecraft:block/acacia_log_top",
+		"particle": "minecraft:block/acacia_log"
+	}
+}

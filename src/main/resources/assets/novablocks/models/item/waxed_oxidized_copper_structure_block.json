@@ -1,0 +1,11 @@
+{
+	"parent": "novablocks:item/structure_block",
+	"textures": {
+		"north": "minecraft:block/oxidized_copper",
+		"south": "minecraft:block/oxidized_copper",
+		"east": "minecraft:block/oxidized_copper",
+		"west": "minecraft:block/oxidized_copper",
+		"up": "minecraft:block/oxidized_copper",
+		"down": "minecraft:block/oxidized_copper"
+	}
+}
