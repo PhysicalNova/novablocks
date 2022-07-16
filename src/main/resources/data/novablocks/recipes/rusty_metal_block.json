@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "rrr",
+        "rwr",
+        "rrr"
+    ],
+    "key": {
+        "r": {
+            "item": "novablocks:red_metal_block"
+        },
+        "w": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "novablocks:rusty_metal_block",
+        "count": 8
+    }
+}

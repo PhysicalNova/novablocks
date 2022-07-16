@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		"novablocks:iron_structure_block",
+		"novablocks:red_metal_structure_block",
+		"novablocks:rusty_metal_structure_block",
+		"novablocks:hazard_structure_block",
+		"novablocks:copper_structure_block",
+		"novablocks:waxed_copper_structure_block",
+		"novablocks:exposed_copper_structure_block",
+		"novablocks:waxed_exposed_copper_structure_block",
+		"novablocks:weathered_copper_structure_block",
+		"novablocks:waxed_weathered_copper_structure_block",
+		"novablocks:oxidized_copper_structure_block",
+		"novablocks:waxed_oxidized_copper_structure_block",
+		"novablocks:oak_log_structure_block",
+		"novablocks:birch_log_structure_block",
+		"novablocks:jungle_log_structure_block",
+		"novablocks:spruce_log_structure_block",
+		"novablocks:acacia_log_structure_block",
+		"novablocks:dark_oak_log_structure_block",
+		"novablocks:stripped_oak_log_structure_block",
+		"novablocks:stripped_birch_log_structure_block",
+		"novablocks:stripped_jungle_log_structure_block",
+		"novablocks:stripped_spruce_log_structure_block",
+		"novablocks:stripped_acacia_log_structure_block",
+		"novablocks:stripped_dark_oak_log_structure_block"
+	]
+}

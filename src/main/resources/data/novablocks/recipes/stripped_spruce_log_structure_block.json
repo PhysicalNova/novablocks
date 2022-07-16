@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "lsl",
+        "lsl",
+        "lsl"
+    ],
+    "key": {
+        "l": {
+            "item": "minecraft:stripped_spruce_log"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "novablocks:stripped_spruce_log_structure_block",
+        "count": 8
+    }
+}

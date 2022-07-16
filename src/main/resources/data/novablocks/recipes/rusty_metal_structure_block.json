@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "rIr"
+    ],
+    "key": {
+        "r": {
+            "item": "novablocks:rusty_metal_block"
+        },
+        "I": {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    "result": {
+        "item": "novablocks:rusty_metal_structure_block",
+        "count": 4
+    }
+}

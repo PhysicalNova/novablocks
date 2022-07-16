@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "hIh"
+    ],
+    "key": {
+        "h": {
+            "item": "novablocks:hazard_block"
+        },
+        "I": {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    "result": {
+        "item": "novablocks:hazard_structure_block",
+        "count": 4
+    }
+}

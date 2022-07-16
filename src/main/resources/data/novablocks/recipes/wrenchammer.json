@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ii ",
+        " ri",
+        " i "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "r": {
+            "item": "minecraft:red_terracotta"
+        }
+    },
+    "result": {
+        "item": "novablocks:wrenchammer_item"
+    }
+}

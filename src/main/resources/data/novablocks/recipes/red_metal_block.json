@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iri",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "r": {
+            "item": "minecraft:red_dye"
+        }
+    },
+    "result": {
+        "item": "novablocks:red_metal_block",
+        "count": 16
+    }
+}
