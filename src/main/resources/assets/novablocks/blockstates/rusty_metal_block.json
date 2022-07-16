@@ -1,0 +1,5 @@
+{
+	"variants":	{
+		"": { "model": "novablocks:block/rusty_metal_block" }
+	}
+}

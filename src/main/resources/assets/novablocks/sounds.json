@@ -1,0 +1,10 @@
+{
+	"item.wrenchammer.use": {
+		"subtitle": "sounds.novablocks.wrenchammer.use",
+		"sounds": [
+			"novablocks:wrenchammer_1",
+			"novablocks:wrenchammer_2",
+			"novablocks:wrenchammer_3"
+		]
+	}
+}

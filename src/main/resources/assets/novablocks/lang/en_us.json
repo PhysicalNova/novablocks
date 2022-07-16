@@ -1,6 +1,35 @@
 {
-	"item.novablocks.example_item": "Example Item",
-	"block.novablocks.example_block": "Example Block",
+	"item.novablocks.wrenchammer_item": "Wrenchammer",
 	"block.novablocks.hazard_block": "Hazard Block",
+	"block.novablocks.red_metal_block": "Red Metal Block",
+	"block.novablocks.rusty_metal_block": "Rusty Metal Block",
+	
+	"block.novablocks.iron_structure_block": "Iron Structure",
+	"block.novablocks.copper_structure_block": "Copper Structure",
+	"block.novablocks.waxed_copper_structure_block": "Waxed Copper Structure",
+	"block.novablocks.exposed_copper_structure_block": "Exposed Copper Structure",
+	"block.novablocks.waxed_exposed_copper_structure_block": "Waxed Exposed Copper Structure",
+	"block.novablocks.weathered_copper_structure_block": "Weathered Copper Structure",
+	"block.novablocks.waxed_weathered_copper_structure_block": "Waxed Weathered Copper Structure",
+	"block.novablocks.oxidized_copper_structure_block": "Oxidized Copper Structure",
+	"block.novablocks.waxed_oxidized_copper_structure_block": "Waxed Oxidized Copper Structure",
+	"block.novablocks.red_metal_structure_block": "Red Metal Structure",
+	"block.novablocks.rusty_metal_structure_block": "Rusty Metal Structure",
+	"block.novablocks.hazard_structure_block": "Hazard Structure",
+	"block.novablocks.oak_log_structure_block": "Oak Structure",
+	"block.novablocks.birch_log_structure_block": "Birch Structure",
+	"block.novablocks.jungle_log_structure_block": "Jungle Structure",
+	"block.novablocks.spruce_log_structure_block": "Spruce Structure",
+	"block.novablocks.acacia_log_structure_block": "Acacia Structure",
+	"block.novablocks.dark_oak_log_structure_block": "Dark Oak Structure",
+	"block.novablocks.stripped_oak_log_structure_block": "Stripped Oak Structure",
+	"block.novablocks.stripped_birch_log_structure_block": "Stripped Birch Structure",
+	"block.novablocks.stripped_jungle_log_structure_block": "Stripped Jungle Structure",
+	"block.novablocks.stripped_spruce_log_structure_block": "Stripped Spruce Structure",
+	"block.novablocks.stripped_acacia_log_structure_block": "Stripped Acacia Structure",
+	"block.novablocks.stripped_dark_oak_log_structure_block": "Stripped Dark Oak Structure",
+	
+	"sounds.novablocks.wrenchammer.use": "Wrenchammer used",
+	
 	"itemGroup.novablocks": "NovaBlocks"
 }

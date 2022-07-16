@@ -1,0 +1,69 @@
+{
+  "multipart": [
+    {"when": {"axis": "x"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_base", "x": 90, "y":90, "uvlock":true}
+    },
+    {"when": {"axis": "x", "north": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side", "x":180, "y":180, "z":90, "uvlock":true}
+    },
+    {"when": {"axis": "x", "south": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side", "y":180, "z": 90, "uvlock":true}
+    },
+    {"when": {"axis": "x", "east": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_end", "x": 90, "y":90, "uvlock":true}
+    },
+    {"when": {"axis": "x", "west": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_end", "x": 270, "y":90, "uvlock":true}
+    },
+    {"when": {"axis": "x", "up": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side", "x": 270, "y":180, "uvlock":true}
+    },
+    {"when": {"axis": "x", "down": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side", "x": 90, "y":90, "uvlock":true}
+    },
+    
+    {"when": {"axis": "y"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_base", "uvlock":true}
+    },
+    {"when": {"axis": "y", "north": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side", "uvlock":true}
+    },
+    {"when": {"axis": "y", "south": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side", "y":180, "uvlock":true}
+    },
+    {"when": {"axis": "y", "east": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side", "y":90, "uvlock":true}
+    },
+    {"when": {"axis": "y", "west": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side", "y":270, "uvlock":true}
+    },
+    {"when": {"axis": "y", "up": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_end", "uvlock":true}
+    },
+    {"when": {"axis": "y", "down": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_end", "x": 180, "uvlock":true}
+    },
+    
+    {"when": {"axis": "z"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_base", "x": 90, "uvlock":true}
+    },
+    {"when": {"axis": "z", "north": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_end", "x": 90, "z":90, "uvlock":true}
+    },
+    {"when": {"axis": "z", "south": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_end","x": 90, "y":180, "uvlock":true}
+    },
+    {"when": {"axis": "z", "east": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side","y":90, "uvlock":true}
+    },
+    {"when": {"axis": "z", "west": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side","x": 180,  "y":90, "uvlock":true}
+    },
+    {"when": {"axis": "z", "up": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side","x": 270,  "y":90, "uvlock":true}
+    },
+    {"when": {"axis": "z", "down": "true"},
+      "apply": {"model": "novablocks:block/structure/red_metal_structure_side","x": 90,  "y":90, "uvlock":true}
+    }
+  ]
+}
