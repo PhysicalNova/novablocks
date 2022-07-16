@@ -2,6 +2,7 @@ package io.github.PhysicalNova.novablocks;
 
 import io.github.PhysicalNova.novablocks.core.init.BlockInit;
 import io.github.PhysicalNova.novablocks.core.init.ItemInit;
+import io.github.PhysicalNova.novablocks.core.init.SoundInit;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.fml.common.Mod;
@@ -16,14 +17,16 @@ public class Novablocks {
 		
 		BlockInit.BLOCK.register(bus);
 		ItemInit.ITEMS.register(bus);
+		SoundInit.SOUNDS.register(bus);
 	}
 	
 	public static final CreativeModeTab NOVABLOCKS_TAB = new CreativeModeTab(MODID) {//itemGroup.novablocks
 
 		@Override
 		public ItemStack makeIcon() {
-			return ItemInit.HAZARD_BLOCK_ITEM.get().getDefaultInstance();
+			return ItemInit.IRON_STRUCTURE_BLOCK_ITEM.get().getDefaultInstance();
 		}
 		
 	};
+	
 }
